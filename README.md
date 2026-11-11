@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Based-Web-Testing-Environment?style=flat-square" alt="License" /></a>
@@ -74,9 +74,9 @@ Curated list of commercial SaaS cloud testing grids, sorted descending by compan
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for browser grid orchestrators, headless testing engines, and containerized browser infrastructure—**sorted in descending order by GitHub Stars**:
+Curated open-source projects for browser grid orchestrators, headless testing engines, and containerized browser infrastructure—**sorted in descending order by GitHub_Stars**:
 
-| Project | ⭐ Stars | 📜 License | 📝 Description |
+| Project | ⭐ GitHub_Stars | 📜 License | 📝 Description |
 |---------|---------|-----------|----------------|
 | **[Playwright](https://github.com/microsoft/playwright)** | [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | Apache-2.0 | Microsoft's end-to-end cross-browser automation framework with built-in test runner supporting Chromium, Firefox, and WebKit across Windows, Linux, and macOS. Self-hostable or connects directly to remote cloud grids. |
 | **[Puppeteer](https://github.com/puppeteer/puppeteer)** | [![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers) | Apache-2.0 | Node.js library providing a high-level DevTools Protocol API to control Chrome/Chromium, widely deployed as the foundation for serverless web test execution and automated rendering clusters. |
